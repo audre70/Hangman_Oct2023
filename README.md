@@ -7,4 +7,4 @@ The requirements of the assignment were to feature at least two of the following
 - A string method (ex. length, substring, split, etc.) 
 - An interactive component (via mouse or keyboard) that changes a visible and/or audible change
 
-(Link to sketch)[https://audre70.github.io/Hangman_Oct2023/]
+[Link to sketch](https://audre70.github.io/Hangman_Oct2023/)
